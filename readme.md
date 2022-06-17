@@ -13,6 +13,10 @@
 		https://nginx.org/ru/
 		https://httpd.apache.org/
 
+	Auth:
+		https://www.keycloak.org/
+		Протокол OpenID Connect (https://habr.com/ru/company/nixys/blog/566910/)
+
 	Tools:
 		https://swagger.io/
 
